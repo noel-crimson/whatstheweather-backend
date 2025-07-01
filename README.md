@@ -27,7 +27,7 @@ The full application is available at https://whatstheweather-yg8k.onrender.com/ 
 ## Tech Stack
 
 - Java 24
-- Spring Boot 3.x
+- Spring Boot 3.5.3
 - Maven
 - REST Template / HttpClient
 - Deployed on [Render](https://render.com/)
