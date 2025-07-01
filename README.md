@@ -2,7 +2,9 @@
 
 This is the backend for the Weather Forecast application.  
 It integrates with the [Open-Meteo API](https://open-meteo.com/en/docs) to provide daily and weekly weather forecasts, and estimates photovoltaic energy generation.
+
 This API is available at https://whatstheweather-backend.onrender.com/v1/weather/
+
 The full application is available at https://whatstheweather-yg8k.onrender.com/ (May take 2 minutes to load the backend and frontend, each)
 
 ---
